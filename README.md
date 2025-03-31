@@ -127,9 +127,8 @@ To experience the system, follow these steps:
 ## Future Development
 
 ### Phase 2 Goals:
-1. Develop deployment solutions that support GPU-based parallel processing.
-2. Expand compatibility with more decentralized platforms beyond Ethereum/Polygon networks.
-3. Incorporate additional AI models for enhanced query accuracy.
+1. Expand compatibility with more decentralized platforms beyond Ethereum/Polygon networks.
+2. Incorporate additional AI models for enhanced query accuracy.
 
 ---
 
@@ -137,4 +136,3 @@ To experience the system, follow these steps:
 
 We welcome contributions from developers passionate about AI-Web3 integration! Feel free to explore our repository, suggest improvements, or collaborate on future phases.
 
-Special thanks to our team for their dedication in bringing this innovative concept to life!
