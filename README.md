@@ -12,7 +12,7 @@ Our primary goal is to demonstrate how AI can enhance the usability and function
 
 The following diagram outlines the architecture of Phase 1, showcasing the technical complexity, usability, and real-world impact of our system:
 
-![Architecture Diagram](https://drive.google.com/file/d/1WLrnT10g_drPOxdR7Ai2mcykGmfU3fsf/view?usp=sharing)
+![https://drive.google.com/file/d/1WLrnT10g_drPOxdR7Ai2mcykGmfU3fsf/view?usp=sharing]
 
 ### Key Components:
 
